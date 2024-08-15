@@ -17,7 +17,7 @@
 
 - SQL
   - [Chicago City 311 Services Analysis](Chicago_311.md)
-  - [Video Games Sales](E-comerce Video Games Sales worldwide.md)
+  - [Video Games Sales](E-commerceVideoGamesSales.md)
 
 - Excel
 
