@@ -9,23 +9,23 @@
 <img width="697" alt="Знімок екрана 2024-08-15 о 12 03 40 пп" src="https://github.com/user-attachments/assets/3e2c4d51-c3af-4336-a311-0ed6ffaa2b33">
 
 ## Portfolio Projects
-
-- Tableau
-  - [British Airways Reviews](BritishAirwaysReview.md)
-
-- Python
-
 - SQL
   - [Chicago City 311 Services Analysis](Chicago_311.md)
   - [Video Games Sales](E-commerceVideoGamesSales.md)
+    
+- Tableau
+  - [British Airways Reviews](BritishAirwaysReview.md)
+    
+- RStudio
+  - [Adidas US Sales](AdidasSalesUS.md)
+    
+- PowerBI
+  -  [HR Department Dashboard](HrDashcboardPowerBI.md)
+      
+- Python
 
 - Excel
 
-- RStudio
-  - [Adidas US Sales](AdidasSalesUS.md)
-
-- PowerBI
-  -  [HR Department Dashboard](HrDashcboardPowerBI.md)
 
 
 *In this section, you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.*
@@ -48,7 +48,7 @@ Ukraine, Masters Degree in Agricultural Mechanization, 2014 - 2015
 
 **National University of Life and Environmental Sciences of Ukraine**
 
-Ukraine, Bachelor's Degree in Processes, Machines and Equipment of Agroindustrial Production, 2012 - 2014
+Ukraine, Bachelor's Degree in Processes in Machines and Equipment of Agroindustrial Production, 2012 - 2014
 
 #### Contact with me
 [You can reach out to me via LinkedIn](https://www.linkedin.com/in/dmytrozaplava/)
