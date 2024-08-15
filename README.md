@@ -6,7 +6,6 @@
 
 #### I’m looking to collaborate on R, PYTHON, SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI or TABLEAU
 
-#### [You can reach out to me via LinkedIn](https://www.linkedin.com/in/dmytrozaplava/)
 <img width="697" alt="Знімок екрана 2024-08-15 о 12 03 40 пп" src="https://github.com/user-attachments/assets/3e2c4d51-c3af-4336-a311-0ed6ffaa2b33">
 
 ## Projects
@@ -32,3 +31,6 @@ Ukraine, Masters Degree in Agricultural Mechanization, 2014 - 2015
 **National University of Life and Environmental Sciences of Ukraine**
 
 Ukraine, Bachelor's Degree in Processes, Machines and Equipment of Agroindustrial Production, 2012 - 2014
+
+#### Contact with me
+[You can reach out to me via LinkedIn](https://www.linkedin.com/in/dmytrozaplava/)
