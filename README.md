@@ -9,6 +9,10 @@
 <img width="697" alt="Знімок екрана 2024-08-15 о 12 03 40 пп" src="https://github.com/user-attachments/assets/3e2c4d51-c3af-4336-a311-0ed6ffaa2b33">
 
 ## Portfolio Projects
+
+*In this section, you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.*
+
+
 - SQL
   - [Chicago City 311 Services Analysis](Chicago_311.md)
   - [Video Games Sales](E-commerceVideoGamesSales.md)
@@ -28,7 +32,6 @@
 
 
 
-*In this section, you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.*
 
 #### Chicago City 311 Service Analysis
 For this project, I conducted an analysis on 2.8 million rows of data using a combination of SQL and Excel. The goal was to help a public agency in Chicago improve ticket resolution time by understanding where they should focus their resources on. After exploring the data, I created a priority quadrant based on two selected metrics, plotted the data against the quadrant, cross-validated the findings with data from New York City, and deep dived to find patterns in location fields. In the end, I shared the key insights, suggestions, and remarks in a presentation.
