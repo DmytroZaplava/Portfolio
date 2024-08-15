@@ -8,7 +8,25 @@
 
 <img width="697" alt="Знімок екрана 2024-08-15 о 12 03 40 пп" src="https://github.com/user-attachments/assets/3e2c4d51-c3af-4336-a311-0ed6ffaa2b33">
 
-## Projects
+## Portfolio Projects
+
+- Tableau
+  - [British Airways Reviews](BritishAirwaysReview.md)
+
+- Python
+
+- SQL
+  - [Chicago City 311 Services Analysis](Chicago_311.md)
+  - [Video Games Sales](E-comerce-Video-Games-Sales-worldwide.md)
+
+- Excel
+
+- RStudio
+  - [Adidas US Sales](AdidasSalesUS.md)
+
+- PowerBI
+  -  [HR Department Dashboard](HrDashcboardPowerBI.md)
+
 
 *In this section, you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.*
 
