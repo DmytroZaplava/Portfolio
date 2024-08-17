@@ -25,10 +25,7 @@
     
 - PowerBI
   -  [HR Department Dashboard](HrDashcboardPowerBI.md)
-      
-- Python
 
-- Excel
 
 
 
