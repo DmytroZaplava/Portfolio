@@ -15,7 +15,7 @@
 
 - SQL
   - [Chicago City 311 Services Analysis](#Chicago-311.md)
-  - [Video Games Sales](E-commerce Video Games Sales Analysis/E-commerceVideoGamesSales.md)
+  - [Video Games Sales](E-commerce-Video-Games-Sales-Analysis/E-commerceVideoGamesSales.md)
     
 - Tableau
   - [British Airways Reviews](#BritishAirwaysReview.md)
