@@ -15,16 +15,16 @@
 
 - SQL
   - [Chicago City 311 Services Analysis](https://github.com/DmytroZaplava/Portfolio/blob/main/Chicago%20311%20Analysis/Chicago_311.md)
-  - [Video Games Sales](E-commerce-Video-Games-Sales-Analysis/E-commerceVideoGamesSales.md)
+  - [Video Games Sales](https://github.com/DmytroZaplava/Portfolio/blob/main/E-commerce%20Video%20Games%20Sales%20Analysis/E-commerceVideoGamesSales.md)
     
 - Tableau
-  - [British Airways Reviews](#BritishAirwaysReview.md)
+  - [British Airways Reviews](https://github.com/DmytroZaplava/Portfolio/blob/main/British%20Airways%20Review%20Analysis/BritishAirwaysReview.md)
     
 - RStudio
-  - [Adidas US Sales](#AdidasSalesUS.md)
+  - [Adidas US Sales]([#AdidasSalesUS.md](https://github.com/DmytroZaplava/Portfolio/blob/main/Adidas%20Sales%20USA%20Analysis/AdidasSalesUS.md))
     
 - PowerBI
-  -  [HR Department Dashboard](#HrDashcboardPowerBI.md)
+  -  [HR Department Dashboard](https://github.com/DmytroZaplava/Portfolio/blob/main/Hr%20Dash%20Board/HrDashcboardPowerBI.md)
 
 
 
