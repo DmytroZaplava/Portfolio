@@ -14,17 +14,17 @@
 
 
 - SQL
-  - [Chicago City 311 Services Analysis](Chicago_311.md)
-  - [Video Games Sales](E-commerceVideoGamesSales.md)
+  - [Chicago City 311 Services Analysis](#Chicago_311.md)
+  - [Video Games Sales](#E-commerceVideoGamesSales.md)
     
 - Tableau
-  - [British Airways Reviews](BritishAirwaysReview.md)
+  - [British Airways Reviews](#BritishAirwaysReview.md)
     
 - RStudio
-  - [Adidas US Sales](AdidasSalesUS.md)
+  - [Adidas US Sales](#AdidasSalesUS.md)
     
 - PowerBI
-  -  [HR Department Dashboard](HrDashcboardPowerBI.md)
+  -  [HR Department Dashboard](#HrDashcboardPowerBI.md)
 
 
 
