@@ -14,7 +14,7 @@
 
 
 - SQL
-  - [Chicago City 311 Services Analysis](Chicago-311-analysis/Chicago-311.md)
+  - [Chicago City 311 Services Analysis](https://github.com/DmytroZaplava/Portfolio/blob/main/Chicago%20311%20Analysis/Chicago_311.md)
   - [Video Games Sales](E-commerce-Video-Games-Sales-Analysis/E-commerceVideoGamesSales.md)
     
 - Tableau
