@@ -24,8 +24,8 @@
   - [Adidas US Sales](https://github.com/DmytroZaplava/Portfolio/blob/main/Adidas%20Sales%20USA%20Analysis/AdidasSalesUS.md)
     
 - PowerBI
-  -  [HR Department Dashboard](https://github.com/DmytroZaplava/Portfolio/blob/main/Hr%20Dash%20Board/HrDashcboardPowerBI.md)
-- [Austin Animal's Shelter] (https://public.tableau.com/views/AustinAnimalShelter_17291175179600/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [HR Department Dashboard](https://github.com/DmytroZaplava/Portfolio/blob/main/Hr%20Dash%20Board/HrDashcboardPowerBI.md)
+  - [Austin Animal's Shelter](https://github.com/DmytroZaplava/Portfolio/blob/main/Austin%20Animal's%20Shelter.md)
 
 
 
