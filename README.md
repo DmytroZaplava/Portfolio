@@ -20,7 +20,7 @@
 - Tableau
   - [British Airways Reviews](https://github.com/DmytroZaplava/Portfolio/blob/main/British%20Airways%20Review%20Analysis/BritishAirwaysReview.md)
   - [Austin Animal's Shelter](https://github.com/DmytroZaplava/Portfolio/blob/main/Austin%20Animal's%20Shelter.md)   
-  - [EV and PHEV vehicles registration in Texas] (https://github.com/DmytroZaplava/Portfolio/blob/main/EV%20and%20PHEV%20vehicles%20registration%20in%20Texas.md)
+  - [EV and PHEV vehicles registration in Texas](https://github.com/DmytroZaplava/Portfolio/blob/main/EV%20and%20PHEV%20vehicles%20registration%20in%20Texas.md)
     
 - RStudio
   - [Adidas US Sales](https://github.com/DmytroZaplava/Portfolio/blob/main/Adidas%20Sales%20USA%20Analysis/AdidasSalesUS.md)
